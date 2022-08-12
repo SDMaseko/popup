@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "popup-cc409": {
+      "hosting": {
+        "app": [
+          "popup-cc409"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "popup-cc409"
+  }
+}
